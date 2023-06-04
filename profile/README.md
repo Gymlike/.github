@@ -134,10 +134,6 @@
 </br>
 </br>
 ## 📌 ERD
-
-
-
-
-![title](https://velog.velcdn.com/images/wonizizi99/post/9f1c5930-4d4d-44af-a806-273d6952d36f/image.png)   
+![title](https://velog.velcdn.com/images/wonizizi99/post/924226ec-93a8-41c5-81a8-8366e73042e3/image.png)   
 </br>
 </br>
